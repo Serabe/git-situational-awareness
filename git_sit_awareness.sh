@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 PROMPT_GREEN='\['`tput setaf 2`'\]'
 PROMPT_PINK='\['`tput setaf 5`'\]'
 PROMPT_PLAIN='\['`tput op`'\]'
